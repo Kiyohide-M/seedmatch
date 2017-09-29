@@ -1,13 +1,5 @@
 #!/usr/bin/perl
 
-# 7文字以上のseed配列を読み込み、その配列にマッチするtranscriptのIDを返すサーバ。
-# マイクロアレイ学生実習用に開発。
-#
-# 2009-06-12.y-naito
-# 2009-06-16.y-naito
-# 2009-06-17.y-naito
-# 2013-06-05.y-naito RefSeq 59に更新
-
 use warnings ;
 use strict ;
 use Socket ;
