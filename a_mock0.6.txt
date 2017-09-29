@@ -1,0 +1,17 @@
+NM_001010895 without-seed
+NM_012470 without-seed
+NM_175874 without-seed
+NM_006227 without-seed
+NM_001031628 without-seed
+NM_057157 without-seed
+NM_001622 without-seed
+NM_030648 with-seed
+NM_004227 without-seed
+NM_003121 without-seed
+NM_182707 without-seed
+NM_004660 without-seed
+NM_198317 without-seed
+NM_033114 without-seed
+NM_017682 without-seed
+NM_013361 without-seed
+NM_001039464 without-seed
